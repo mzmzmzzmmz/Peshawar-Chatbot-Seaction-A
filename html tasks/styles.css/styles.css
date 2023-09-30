@@ -3,24 +3,28 @@ h1 {
     font-size: 6rem;
     font-family: "Open Sans", Helvetica, sans-serif;
 }
+h2{
+    color: #FEFEFE;
+    font-size: 4rem;
+    font-family: "Open Sans", Helvetica, sans-serif;
 
-.dim {
-    color: rgb(92, 92, 92);
 }
 
 body {
     background-color: #202123;
     color: #D1D5DA;
+    font-size: 3rem;
 }
 
 .profilePhoto {
-    width: 100px;
-    border: 2px double white;
+    width: 400px;
+    height: 400px;
     border-radius: 50%;
+    border: 2px dotted white;
+
 }
 .squareProfile{
     border-radius: 15px;
-    border: 2px dotted white;
 }
 
 .circular-image {
